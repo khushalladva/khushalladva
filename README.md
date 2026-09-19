@@ -13,10 +13,9 @@
 <h3><code>KhushalLadva@github</code></h3>
 
 <pre>
-. Role: ................. Python Developer
-. Focus: ................ Django & Web Development
+. Role: ................. Full-Stack & Python Developer
+. Education: ................ MCA at RK University
 . Location: ............. India
-. GitHub: ............... khushalll14
 </pre>
 
 <h3><code>Tech Stack</code></h3>
@@ -26,21 +25,13 @@
 . Frontend: ............. HTML5, CSS3, Bootstrap
 . Backend: .............. Django, PHP
 . Databases: ............ MySQL, SQLite
-. Tools: ................ Git, GitHub, VS Code
-</pre>
-
-<h3><code>Projects</code></h3>
-
-<pre>
-. SkillSync: ............ AI Skill Barter Platform
-. JobVerse: ............. AI Hiring & Freelancing
-. Book Exchange: ........ College Book Marketplace
-. Portfolio: ............ Personal Developer Website
+. Tools: ................ Git, GitHub, Canva, Figma,  
 </pre>
 
 <h3><code>Contact</code></h3>
 
 <pre>
+. Email: ............. kladva343@rku.ac.in
 . LinkedIn: ............. linkedin.com/in/ladva-khushal
 . GitHub: ............... github.com/khushalll14
 </pre>
