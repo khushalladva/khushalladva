@@ -10,7 +10,7 @@
 
 <td width="50%" valign="top">
 
-<!-- <h3><code>KhushalLadva@github</code></h3> -->
+<h3><code>KhushalLadva@github</code></h3> 
 
 <pre>
 . Role: ................. Full-Stack & Python Developer
