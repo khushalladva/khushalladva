@@ -34,7 +34,7 @@
 
 <br>
 
-<h3><code>GitHub Stats</code></h3>
+<!-- <h3><code>GitHub Stats</code></h3> -->
 
 
 
