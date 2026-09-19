@@ -44,9 +44,7 @@
 
 <h3><code>GitHub Stats</code></h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushalll14&show_icons=true&hide_border=true&theme=transparent" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalll14&layout=compact&hide_border=true&theme=transparent" height="170">
 
 <br><br>
 
