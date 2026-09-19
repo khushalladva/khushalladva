@@ -18,7 +18,7 @@
 . Location: ............. India
 </pre>
 
-<h3><code>Tech Stack</code></h3>
+<h3><code><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Stack" alt="Typing SVG" /></a></code></h3>
 
 <pre>
 . Languages: ............ Python, Java, PHP, JavaScript
