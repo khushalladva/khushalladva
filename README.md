@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="70%" align="center">
+<td width="40%" align="center">
 
 <img src="./ascii.svg" width="100%" alt="Khushal Ladva ASCII Profile">
 
