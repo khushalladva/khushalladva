@@ -7,7 +7,8 @@
 <img src="./ascii.svg" width="100%" alt="Khushal Ladva ASCII Profile">
 
 </td>
-
+</table>
+<table>
 <td width="50%" valign="top">
 
 <h3><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&width=435&lines=khushalladva%40github" alt="Typing SVG" /></h3> 
