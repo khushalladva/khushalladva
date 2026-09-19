@@ -10,7 +10,7 @@
 
 <td width="50%" valign="top">
 
-<h3><code>KhushalLadva@github</code></h3> 
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&width=435&lines=khushalladva%40github" alt="Typing SVG" /></a></h3> 
 
 <pre>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=200&color=F7632F&multiline=true&repeat=false&width=589&height=67&lines=-+Role%3A+.......+Full-Stack+%26+Python+Developer;-+Education%3A+.......+MCA+at+RK+University;+-+Location%3A+.......+India" alt="Typing SVG" /></a>
